@@ -4,7 +4,7 @@ permalink: /posts/:title
 auto: true
 rdiscount:
   extensions: [smart]
-title : chad brown
+title : a blog about nothing
 production_url : http://chadsbrown.github.com
 description: "Much ado about nothing."
 disqus_shortname: chadsbrownblog
