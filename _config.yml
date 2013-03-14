@@ -6,7 +6,7 @@ rdiscount:
   extensions: [smart]
 title : chad brown
 production_url : http://chadsbrown.github.com
-description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Carlos Alexandro Becker."
+description: "Much ado about nothing."
 disqus_shortname: chadsbrownblog
 analytics: 
 gauges: 
